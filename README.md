@@ -1,8 +1,9 @@
 
 
 
-![5b2ac7126fc5be7eb2c94bb2698b0ce8](https://github.com/user-attachments/assets/1f23c52c-7cfd-4da4-b4d0-f07b91457c64)
 
+
+![Uploading shutterstock_1733742605.jpg…]()
 
 # 10-Essential-Encodings 
 
