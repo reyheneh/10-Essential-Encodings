@@ -1,3 +1,11 @@
+
+![5b2ac7126fc5be7eb2c94bb2698b0ce8 (2)](https://github.com/user-attachments/assets/510cac66-9a22-4b04-a814-e78cd1ac2063)
+
+
+
+
+
+
 # 10-Essential-Encodings 
 
 Encodings are algorithms that transform amino acid sequences of varying lengths into numerical vectors of uniform length, which is a critical requirement for many machine learning (ML) algorithms.  
@@ -17,3 +25,4 @@ Encoding biomedical data is crucial for transforming complex, often non-numeric 
 # 8. Fourier Transformation
 # 9. Quantitative structure-activity relationship (QSAR)
 # 10. General structural encodings
+
