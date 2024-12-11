@@ -1,9 +1,7 @@
 
-![5b2ac7126fc5be7eb2c94bb2698b0ce8 (2)](https://github.com/user-attachments/assets/510cac66-9a22-4b04-a814-e78cd1ac2063)
 
 
-
-
+![5b2ac7126fc5be7eb2c94bb2698b0ce8](https://github.com/user-attachments/assets/1f23c52c-7cfd-4da4-b4d0-f07b91457c64)
 
 
 # 10-Essential-Encodings 
