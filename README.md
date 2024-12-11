@@ -14,14 +14,14 @@ Encoding biomedical data is crucial for transforming complex, often non-numeric 
 
 10 encryption methods introduced:
 
-# 1. Sparse encoding
-# 2. Amino acid composition
-# 3. Pseudo amino acid composition
-# 4. Reduced amino acid alphabet
-# 5. Physicochemical properties
-# 6. Moran_autocorrelation
-# 7. Broto_moreau autocorrelation 
-# 8. Fourier Transformation
-# 9. Quantitative structure-activity relationship (QSAR)
-# 10. General structural encodings
+ 1. Sparse encoding
+ 2. Amino acid composition
+ 3. Pseudo amino acid composition
+ 4. Reduced amino acid alphabet
+ 5. Physicochemical properties
+ 6. Moran_autocorrelation
+ 7. Broto_moreau autocorrelation 
+ 8. Fourier Transformation
+ 9. Quantitative structure-activity relationship (QSAR)
+ 10. General structural encodings
 
